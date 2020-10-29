@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubos3D", "Cubos3D\Cubos3D.csproj", "{064CD8AC-1259-4C43-BACB-18BA557816AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064CD8AC-1259-4C43-BACB-18BA557816AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064CD8AC-1259-4C43-BACB-18BA557816AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064CD8AC-1259-4C43-BACB-18BA557816AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064CD8AC-1259-4C43-BACB-18BA557816AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C095292B-DBED-4430-A046-B88C02511F08}
+	EndGlobalSection
+EndGlobal
